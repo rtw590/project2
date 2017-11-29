@@ -1,2 +1,2 @@
 # project2
-Testing working with git command line
+Here is the new branch
